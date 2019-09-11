@@ -1,1 +1,3 @@
-# listas_controle_otimo
+# Listas de Controle Ótimo
+
+Estão subdivididas por pastas.
